@@ -66,7 +66,7 @@ class VendingMachine {
     }
 
     private void dispense(Item item) {
-        //Process and Send the item to user
+        System.out.println("Processing item: " + item.getName());
     }
 
     private void resetLastPurchaseChange() {
