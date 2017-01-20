@@ -11,4 +11,7 @@ logs
 .iml
 .DS_Store
 npm-debug.log
+mvnw
+mvnw.cmd
+.mvn
 /src/main/resources/static/
